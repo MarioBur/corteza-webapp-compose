@@ -45,6 +45,8 @@ import {
   faEllipsisH,
   faEyeSlash,
   faArrowRight,
+  faUserCog,
+  faGripHorizontal,
 } from '@fortawesome/free-solid-svg-icons'
 
 import {
@@ -131,5 +133,7 @@ library.add(
   faEllipsisH,
   faEyeSlash,
   faArrowRight,
+  faUserCog,
   faQuestionCircle,
+  faGripHorizontal,
 )
