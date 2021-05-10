@@ -2,7 +2,7 @@
   <div class="py-3">
     <b-container @submit.prevent="handleSave" tag="form" v-if="module" fluid>
       <b-row no-gutters>
-        <b-col xl="8" offset-xl="2">
+        <b-col>
           <b-card header-bg-variant="white"
                   no-body
                   header-class="border-bottom shadow-sm"
